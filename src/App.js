@@ -37,7 +37,7 @@ const App = () => {
         <h1 className="App-title">Welcome on the Name that Tune</h1>
       </header>
       <div className="App-images">
-        <p>You will have to change the code to run a real game!</p>
+        <p>Name that Tune</p>
       </div>
       <div className="App-buttons">
       </div>
