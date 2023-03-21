@@ -23,9 +23,4 @@ To launch the app in development mode:
 npm start
 ```
 
-To deploy the app to Github pages, modify the `homepage` key in `package.json` to match your account and project.
-Then, launch the command:
-
-```bash
-npm run deploy
-```
+Make sure you update the apiToken in line 12 of App.js
