@@ -9,7 +9,7 @@ import Button from './Button';
 
 import { useState, useEffect } from 'react';
 
-const apiToken = 'BQAbMryvlmSvfSlXHTrY5eB1ItS1SNnLVEfaMHo3nmECyyupJyOw12nEjbuXTOW_ECATl80SM8NT-Abkh4-pV0rbSFPRpgsFsRNmeqZNFsxOqoKTWjnClhzTSu2YUXeV2LxKhnbIn1q2rMFqhyON0lgtjik6GoL3yHSFjcsZwF_ZRgREgL2s7YcJO70Li8OjzVXOsDX6Hp5mXM3x4zkZqA';
+const apiToken = 'token';
 
 function shuffleArray(array) {
   let counter = array.length;
